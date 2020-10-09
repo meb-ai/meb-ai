@@ -1,4 +1,4 @@
-## Hi 👋 We are meb-ai! 
+## Hi 👋 We are meb-ai 
 We are developers who is passionate about stuff like artificial intelligent, machine learning, deep learning and data science.We enjoy working in are Python, C++, C#, Go and  JavaScript.
 - 👨🏽‍💻 Currently we working, learning and growing our skillset in artificial intelligent, machine learning, deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in artificial intelligent, machine learning, deep learning, analytics and data science.
@@ -9,19 +9,10 @@ We are developers who is passionate about stuff like artificial intelligent, mac
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=meb-ai&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=meb-ai&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
-<details open> 
- <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
- 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1"></a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2"></a>
-
-</details>
-
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
