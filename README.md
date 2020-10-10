@@ -8,9 +8,9 @@ We are developers who is passionate about stuff like artificial intelligent, mac
 <details open>
  <summary> 😇 <b>Our Github Stats</b>: </summary>
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=volkanaktas&hide=css,java,html&theme=tokyonight">
+<p align = "center">  
   <img src = "https://github-readme-stats.vercel.app/api?username=volkanaktas&show_icons=true&theme=tokyonight&line_height=27">  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=volkanaktas&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
 <details> 
